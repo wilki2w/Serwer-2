@@ -1,0 +1,31 @@
+/*MysticJump*/
+.id-28366137>.badge-box>i.bdg, #chat-messages .fromID-28366137 .bdg {
+    background-image: url("http://i.imgur.com/NoWltA5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-28366137 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("http://i.imgur.com/NoWltA5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/*Marihuana you tube*/
+.id-28209493>.badge-box>i.bdg, #chat-messages .fromID-28209493 .bdg {
+    background-image: url("http://i.imgur.com/MPZnrxq.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-28209493 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("http://i.imgur.com/MPZnrxq.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
