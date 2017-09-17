@@ -97,3 +97,19 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+/*Skipper PL*/
+.id-30356860>.badge-box>i.bdg, #chat-messages .fromID-30356860 .bdg {
+    background-image: url("https://media.discordapp.net/attachments/357921263987195915/358733375231492107/Moj_nowy_awatar_na_YT.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-30356860 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("https://media.discordapp.net/attachments/357921263987195915/358733375231492107/Moj_nowy_awatar_na_YT.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
